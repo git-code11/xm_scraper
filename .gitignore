@@ -1,0 +1,6 @@
+build/
+project.egg-info/
+scrapinghub.yml
+setup.py
+__pycache__
+*/__pycache__
